@@ -52,7 +52,7 @@ print('predicted CO2 for the corresponding weight and volume',predictedCO2)
 ## Output:
 ![output](10.png)
 
-### Insert your output
+
 
 <br>
 
